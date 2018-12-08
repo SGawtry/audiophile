@@ -12,7 +12,9 @@ html {
     background-color: lightgray;
 }
 
-
+code {
+    font-size: 1.5em;
+}
 
 /* The hero image */
 .hero-image {
